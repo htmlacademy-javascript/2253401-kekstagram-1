@@ -16,7 +16,7 @@ isGetPalindrome('топот');
 Если в строке нет ни одной цифры, функция должна вернуть NaN:*/
 const pullOut = (string) => {
   string = string.replace(/\D/g,'');
-  console.log(string);
+  return string;
 };
 
 pullOut('23gf37');
