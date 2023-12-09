@@ -25,7 +25,7 @@ pullOut('23gf37');
 const findThreeParametrs = (string, minLenght, additionalSymbol) => {
   const lenghtString = minLenght - string.length;
   if (lenghtString <= 0) {
-  return string;
+    return string;
   }
   return additionalSymbol.slice (0, lenghtString % additionalSymbol.length) +
 additionalSymbol.repeat(lenghtString / additionalSymbol.length) + string;
