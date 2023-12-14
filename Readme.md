@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Павел Макаров](https://up.htmlacademy.ru/javascript-individual/1/user/2253401).
-* Наставник: `Алексей Хабиров`.
+* Наставник: [Алексей Хабиров] (https://htmlacademy.ru/profile/alex_khab).
 
 ---
 
